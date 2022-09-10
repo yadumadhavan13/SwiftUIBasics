@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  LandMarkDetail.swift
 //  SWiftUIBasics
 //
 //  Created by YADU MADHAVAN on 06/09/22.
