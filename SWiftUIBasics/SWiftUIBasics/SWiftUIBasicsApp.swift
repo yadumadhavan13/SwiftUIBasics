@@ -11,7 +11,7 @@ import SwiftUI
 struct SWiftUIBasicsApp: App {
     var body: some Scene {
         WindowGroup {
-            LandMarkList()
+            LandMarkList().environmentObject(UserData())
         }
     }
 }

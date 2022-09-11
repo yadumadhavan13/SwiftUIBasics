@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0265461028CE38E00051FBE6 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0265460F28CE38E00051FBE6 /* UserData.swift */; };
 		02F7C68628CD0115000153E1 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 02F7C67828CD0115000153E1 /* LICENSE.txt */; };
 		02F7C68728CD0115000153E1 /* umbagog@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 02F7C67A28CD0115000153E1 /* umbagog@2x.jpg */; };
 		02F7C68828CD0115000153E1 /* twinlake@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 02F7C67B28CD0115000153E1 /* twinlake@2x.jpg */; };
@@ -33,6 +34,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0265460F28CE38E00051FBE6 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		02F7C67828CD0115000153E1 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		02F7C67A28CD0115000153E1 /* umbagog@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "umbagog@2x.jpg"; sourceTree = "<group>"; };
 		02F7C67B28CD0115000153E1 /* twinlake@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "twinlake@2x.jpg"; sourceTree = "<group>"; };
@@ -121,6 +123,7 @@
 			children = (
 				02F7C69628CD029E000153E1 /* ModelData.swift */,
 				02F7C69728CD029E000153E1 /* Landmark.swift */,
+				0265460F28CE38E00051FBE6 /* UserData.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -250,6 +253,7 @@
 				02F7C69928CD029E000153E1 /* Landmark.swift in Sources */,
 				02FBE1E428C7BB1B0030D4CB /* LandMarkDetail.swift in Sources */,
 				02F7C69B28CD0689000153E1 /* LandMarkList.swift in Sources */,
+				0265461028CE38E00051FBE6 /* UserData.swift in Sources */,
 				02FBE1F228C7C0A30030D4CB /* MapView.swift in Sources */,
 				02FBE1F028C7BED30030D4CB /* CircleImageView.swift in Sources */,
 				02FBE1E228C7BB1B0030D4CB /* SWiftUIBasicsApp.swift in Sources */,
